@@ -1,0 +1,13 @@
+Criando uma conta no Github
+
+O primeiro passo para criarmos um conta no GitHub e acessar o seu site.
+
+Site: https://github.com/
+
+Logo apos abrir o site, clique sobre Sign up localizado no topo a direita. Apos clicar sobre esta opcao, o formulario
+estara disponivel para que voce possa inserir seus dados (nome de usuario, e-mail e senha).
+
+Apos a criacao da sua conta, basta clicar sobre Sign in localizado no topo a direita. O proximo passo sera inserir seu
+e-mail e senha, definidos no ato da criacao da sua conta e clicar sobre Sign in.
+
+Pronto! A partir destes passos, voce ja criou sua conta no GitHub.
