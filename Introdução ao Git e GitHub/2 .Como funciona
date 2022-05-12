@@ -1,0 +1,37 @@
+Como Funciona GitHUB
+
+No entanto, voce pode utilizar o GitHub para enviar suas modificacoes para o servico de hospedagem do GitHub. Isso possibilita que outras pessoas
+trabalhem de maneira semelhante em um mesmo projeto, obtenham suas alteracoes em seus computadores e enviem suas proprias alteracoes para o GitHub.
+
+Repositorios 
+
+Os repositorios sao os ambientes criados para armazenar seus codigos.
+Existe um ou mais repositorios, públicos ou privados, locais ou remotos, e eles podem armazenar nao somente os próprios codigos a serem
+modificados, mas tambem imagens, audios, arquivos e outros elementos magens, audios, arquivos e outros elementos 
+E atraves dos seus repositorios publicos que outros programadores poderao ter acesso aos seus codigos no GitHub, podendo,
+inclusive, clona-los para adicionar melhorias.
+
+Principais comandos Git
+
+Uma lista dos comandos mais utilizados
+
+Init: este comando da origem a um repositorio novo, local ou remoto, ou reinicializa um repositório ja existente;
+Clone: este comando clona o codigo de um repositório para sua manipulacao em outro ambiente;
+Commit: este comando move os arquivos da state area para um repositorio local;
+Add: este comando adiciona um arquivo alterado a uma staging area, ou seja, o prepara para ser vinculado a um commit;
+Push: este comando envia arquivos de um repositorio local para um repositorio remoto. No GitHub, por exemplo;
+Pull: ao contrario do push, este comando traz um arquivo do repositorio remoto para o repositorio local.
+
+Possiveis conflitos
+
+É muito importante lembrar que, por mais que você tenha um repositorio hospedado no GitHub, o historico de versões de sua copia local
+pode ser diferente de versoes do repositorio que você tem online.
+Portanto, se voce tentar extrair ou enviar modificacoes para arquivos que ja foram modificados por outras pessoas e essas modificacoes 
+ja estiverem no GitHub, voce podera entrar em um conflito
+Conflito essencialmente acontece quando o historico de versoes do repositorio em seu computador local é diferente do historico de
+versoes do repositorio no GitHub.
+
+
+
+
+
